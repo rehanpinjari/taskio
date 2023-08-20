@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/media/hp/107 GB Volume1/WebDev/Projects/taskio/src/Assests/TASkio.png" alt="Taskio Logo">
+  <img src="src/Assests/TASkio.png" alt="Taskio Logo">
 </p>
 
 # Taskio - Your Ultimate Task Manager Showcase
