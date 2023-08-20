@@ -1,0 +1,20 @@
+.App {
+  overflow: hidden;
+  scroll-behavior: smooth;
+}
+
+
+.body {
+  /* Set a fixed height and enable scrolling */
+  height: 300px; /* Adjust to your preferred height */
+  overflow: auto;
+
+  /* Apply styling to the scroll bar track and thumb */
+  scrollbar-width: thin; /* Firefox */
+  scrollbar-color: rgba(0, 0, 0, 0.3) transparent; /* Firefox */
+}
+
+/* Apply styling to the scroll bar thumb */
+.body::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.3);
+}

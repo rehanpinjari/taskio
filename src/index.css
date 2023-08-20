@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap");
+
+* {
+  background-color: #f5f5f5;
+}
+
+body {
+
+  font-family: "Open Sans", sans-serif;
+  background-color: #2b2d42;
+}
+
+
+h1,
+h2,
+h3 {
+  font-family: "Montserrat", sans-serif;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+}
+
+/* Use Midnight Blue (#F5F5F5) as the primary background color for the website. */
+/* Use Lavender Gray (#2b2d42) for secondary elements, such as task lists, labels, or icons. */
+/* Use Off-White (#333333) for the Typography, creating a clean and spacious feel. */
+
+
+body::-webkit-scrollbar{
+  display: none;
+}

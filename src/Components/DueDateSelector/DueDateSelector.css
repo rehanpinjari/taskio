@@ -1,0 +1,15 @@
+.dueDateSelector {
+    display: flex;
+    align-items: center;
+  }
+  
+  .dueDateSelector label {
+    margin-right: 8px;
+  }
+  
+  .dueDateSelector input[type="date"] {
+    padding: 4px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  

@@ -1,0 +1,29 @@
+.feature {
+  margin: 15.5rem auto;
+}
+
+.feature-icons {
+  background-color: transparent;
+}
+
+.icon-container {
+  display: inline-block;
+  background-color: #e6e6e6;
+  padding: 8px;
+  border-radius: 16%;
+}
+
+.feature-headline {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: 600;
+}
+
+.feature-title {
+  font-family: "Montserrat", sans-serif;
+}
+
+.feature-specs {
+  font-family: "Open-sans", sans-serif;
+  font-size: 1rem;
+}

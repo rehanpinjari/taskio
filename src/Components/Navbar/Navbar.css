@@ -1,0 +1,30 @@
+* {
+  background-color: #f5f5f5;
+}
+
+.navbar-box {
+  position: sticky;
+  margin: auto auto;
+}
+
+.nav-link {
+  color: #333333;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+}
+
+.nav-link:hover {
+  color: #a3a3c2;
+}
+
+.btn-primary {
+  color: #f5f5f5;
+  background-color: #2b2d42;
+  border-color: #2b2d42;
+}
+
+.btn-primary:hover {
+  background-color: #f5f5f5;
+  border-color: #2b2d42;
+  color: #2b2d42;
+}

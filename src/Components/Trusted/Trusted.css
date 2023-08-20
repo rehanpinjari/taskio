@@ -1,0 +1,90 @@
+/* .trusted-teams {
+    margin: -12rem auto;
+}
+
+.trusted-team-headline {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.trusted-headline {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.trusted-img {
+    display: flex;
+      justify-content: center;
+      align-items: center;
+}
+
+.trusted-logos {
+    width: 100px;
+    padding: 3rem 0;
+} */
+
+
+
+.btn-container {
+  display: flex;
+  justify-content: center;
+}
+
+section {
+  margin: -12rem auto;
+}
+
+.section-header {
+  text-align: center;
+  margin: 40px;
+}
+
+.section-title {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+.section-subtitle {
+  margin: 0 auto;
+  width: 30%;
+  color: #888;
+  font-size: 20px;
+}
+
+.trusted {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.trusted-row {
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: hidden;
+  align-items: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.trusted-row img {
+  width: 200px;
+  margin: 20px;
+}
+
+@media (max-width: 1000px) {
+  .trusted {
+    width: 100%;
+  }
+  .trusted-row img {
+    width: 100px;
+    margin: 20px;
+  }
+  .section-subtitle {
+    width: 100%;
+  }
+}
+

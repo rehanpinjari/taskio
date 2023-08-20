@@ -1,0 +1,39 @@
+.proof {
+  padding: 0rem 0rem;
+}
+
+.btn-see-more {
+  background-color: #2b2d42;
+  padding: 8px 16px;
+  text-align: center;
+  transition: 0.3s;
+  background-size: 200% auto;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+}
+
+.btn-see-more:hover {
+  background-position: right center;
+  color: #ffffff;
+  background-color: #454655;
+}
+
+.feedback_btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.proof-headline {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3rem;
+}
+
+.user-feedback-topic {
+  font-family: "Montserrat", sans-serif;
+}
+
+.user-feedback-specs {
+  font-family: "Open Sans", sans-serif;
+}
